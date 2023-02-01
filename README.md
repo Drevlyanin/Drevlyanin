@@ -1,5 +1,9 @@
-### Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/1C8bHHJturSx2/giphy.gif?cid=ecf05e47mi8v3r0kueipqvegtnn3fww1mtqqpuhxjc30ouqq&rid=giphy.gif" width="300"/>
+</div>
+</div>
+<img src="https://img.shields.io/badge/-Google%20Developers-red?logo=google&logoColor=orange&style=for-the-badge">
+</div>
 <!--
 **Drevlyanin/Drevlyanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
