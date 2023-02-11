@@ -36,3 +36,8 @@ I am a beginner Python developer from Ukraine.
  - :student: I practice writing technical content. Deep learning the fundamental principles of the Python language. I study the philosophy of Guido.
  - :zap: In my free time, I solve math problems in Python. Learning object-oriented programming language, input/output architecture, interconnect compute nodes, communications infrastructure equipment, storage and embedded systems.
 - :mailbox:How to reach me:  [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/DellTechologies)
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Drevlyanin&theme=great-gatsby&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
