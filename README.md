@@ -11,6 +11,9 @@
   </a>
   <a href="https://www.instagram.com/lzhemonashek/">
     <img src="https://img.shields.io/badge/-instagram-ff69b4?logo=instagram&logoColor=black&style=for-the-badge">
+  </a>
+  <a href="https://replit.com/@AndrewPavlyuk">
+    <img src="https://img.shields.io/badge/-replit-black?logo=replit-&logoColor=orange&style=for-the-badge">  
 </div>
 <div id="badges" align="center">
 <h1>
