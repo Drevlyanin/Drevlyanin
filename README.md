@@ -31,10 +31,9 @@
 
 
 I am a beginner Python developer from Ukraine.
- - :mechanical_arm: I am learning python programming and practicing as a software engineer, learning in depth the fundamental principles of the python language..
+ - :mechanical_arm: I am learning python programming and practicing as a software engineer, learning in depth the fundamental principles of the python language.
  - :robot: Exploring Technical Content Writing.
- - :student: I practice writing technical content. Deep learning the fundamental principles of the Python language. I study the philosophy of Guido.
- - :zap: In my free time, I solve math problems in Python. Learning an object-oriented programming language; input/output architectures; custom libraries for interacting with servers; interconnection of computing nodes, operation of communication infrastructure equipment; storage systems and embedded systems; command line usage, a.automatic testing.
+ - :student: In my free time, I solve math problems in Python. Learning an object-oriented programming language; input/output architectures; custom libraries for interacting with servers; interconnection of computing nodes, operation of communication infrastructure equipment; storage systems and embedded systems; command line usage, automatic testing.
 - :mailbox:How to reach me:  [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/DellTechologies)
 
 ---
