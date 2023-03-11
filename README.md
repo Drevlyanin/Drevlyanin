@@ -48,6 +48,7 @@ I am a beginner Python developer from Ukraine.
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="django" alt="djano" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="djano" width="40" height="40"/>&nbsp;
 </div>
+
 ---
 
 ### :fire: My Stats :
