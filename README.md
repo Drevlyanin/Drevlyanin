@@ -54,7 +54,7 @@ I am a beginner Python developer from Ukraine.
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Drevlyanin&theme=great-gatsby&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drevlyanin&layout=compact&theme=vision-friendly-dark)
+
 
 
 
