@@ -21,7 +21,7 @@
   <img src="https://media2.giphy.com/media/fXhILxhX297vCayMGF/giphy.gif?cid=ecf05e47f9q8jtyenld5bqtvyyq72elborr5adlqfthhnnjy&rid=giphy.gif&ct=s" width="30px"/>
 </h1>
 </div>
----
+
 :man_technologist: About Me :
 
 
