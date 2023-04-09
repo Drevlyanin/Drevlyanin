@@ -25,11 +25,7 @@
 :man_technologist: About Me :
 
 
-I am a beginner Python developer from Ukraine.
- - :mechanical_arm: I am learning python programming and practicing as a software engineer, learning in depth the fundamental principles of the python language.
- - :robot: Exploring Technical Content Writing.
- - :student: In my free time, I solve math problems in Python. Learning an object-oriented programming language; input/output architectures; custom libraries for interacting with servers; interconnection of computing nodes, operation of communication infrastructure equipment; storage systems and embedded systems; command line usage, automatic testing. Working on *NIX systems.
-- :mailbox:How to reach me:  [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/DellTechologies)
+
 
 ---
 
