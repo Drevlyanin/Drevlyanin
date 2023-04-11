@@ -1,26 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media2.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif?cid=ecf05e47au9rr6l6n8cb8qpzi3uo0n6me6jpb1k14zgsekg1&rid=giphy.gif&ct=s" width="150" height="150"/>
-</div>
-<div id="badges" align="center">
-  </a>
-  <a href="https://g.dev/drevlyanin">
-    <img src="https://img.shields.io/badge/-Google%20Developers-red?logo=google&logoColor=orange&style=for-the-badge">
-  </a>
-  <a href="https://stepik.org/users/555117878">
-    <img src="https://img.shields.io/badge/-Stepik-black?logo=S&logoColor=white&style=for-the-badge">
-  </a>
-  <a href="https://www.instagram.com/lzhemonashek/">
-    <img src="https://img.shields.io/badge/-instagram-ff69b4?logo=instagram&logoColor=black&style=for-the-badge">
-  </a>
-  <a href="https://replit.com/@AndrewPavlyuk?tab=repls">
-    <img src="https://img.shields.io/badge/-replit-black?logo=replit-&logoColor=orange&style=for-the-badge">  
-</div>
-<div id="badges" align="center">
-<h1>
-  Hello there
-  <img src="https://media2.giphy.com/media/fXhILxhX297vCayMGF/giphy.gif?cid=ecf05e47f9q8jtyenld5bqtvyyq72elborr5adlqfthhnnjy&rid=giphy.gif&ct=s" width="30px"/>
-</h1>
-</div>
+
 
 :man_technologist: About Me :
 
